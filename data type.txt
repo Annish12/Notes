@@ -1,0 +1,13 @@
+                            Data types
+
+A particular type of data items as defined by the values
+it can take, the programming language use or the 
+operations that can be performed on it.
+
+1) Number= eg-  var num = 1;
+2) string= eg- var num = "10";
+3)boolean= eg- value = true or false;
+4)object= eg- var object = createSprites(x,y,w,h);
+5)array= eg- var arrey=[num1,num2];
+6)null= eg- var name = null;
+7)undefined= eg- var undefined;

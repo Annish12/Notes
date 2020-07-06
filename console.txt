@@ -1,0 +1,20 @@
+var friends=[name1,name2,name3,name4];
+undefined
+friends
+(4) ["Shaunak", "Shaksham Malpani", "Shaksham Aggarwal", "Shiven"]
+friends.length
+4
+friends.width
+undefined
+function Circumfrence(radius){C=2*3.14*radius; return C}
+undefined
+Circumfrence(2)
+12.56
+function Circumfrence(radius){C=2*3.14*radius; return C}
+undefined
+Cirumfrence(5)
+VM1401:1 Uncaught ReferenceError: Cirumfrence is not defined
+    at <anonymous>:1:1
+(anonymous) @ VM1401:1
+Circumfrence(5)
+31.400000000000002
